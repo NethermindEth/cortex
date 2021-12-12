@@ -1,3 +1,14 @@
+# Important note
+
+This project has been incorporated into the main **NethermindEth** repository and is deprecated.
+
+See the Beacon Node Host, and related Core2 libraries at: 
+
+https://github.com/NethermindEth/nethermind/tree/master/src/Nethermind/Nethermind.BeaconNode.Host
+
+
+<details><summary>Original Cortex Readme</summary>
+
 # Cortex
 
 .NET Core Ethereum 2.0
@@ -135,3 +146,6 @@ This library is free software: you can redistribute it and/or modify it under th
 This library is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU Lesser General Public License and GNU General Public License for more details.
 
 You should have received a copy of the GNU Lesser General Public License and GNU General Public License along with this library. If not, see <https://www.gnu.org/licenses/>.
+
+ </details>
+ 
